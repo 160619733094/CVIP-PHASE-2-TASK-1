@@ -2,7 +2,7 @@
 
 > A simple calendar application for daily schedule planning and tracki
 
-## Table of Contents
+## Table of Contents 
 1. [About this project](#about)
 2. [Languages Used](#laguages)
 3. [Installation](#install)
